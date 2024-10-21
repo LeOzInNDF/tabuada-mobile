@@ -17,6 +17,11 @@
       "supportsTablet": true,
       "bundleIdentifier": "br.com.elpatronmkt.app",
       "buildNumber": "1.0.0"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f1ea2a68-b356-46d0-9af1-62fea096a430"
+      }
     }
   }
 }

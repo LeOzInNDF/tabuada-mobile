@@ -24,10 +24,8 @@ Tela da Tabuada.<br>
 - Criar um aplicativo que possui mais de uma tela
 - Criar rotas e associar a um componente
 - Navegar entre as telas do aplicativo
-- ![Screenshot_20241021-014311](https://github.com/user-attachments/assets/ccf22881-6ae9-44fe-bf4b-cd19b740b4fa)
-- ![Screenshot_20241021-014334](https://github.com/user-attachments/assets/05010e08-af47-483f-9fd0-902e368f8081)
-- ![Screenshot_20241021-014348](https://github.com/user-attachments/assets/1de588a6-f91b-4ff0-ad33-093c9ebaa47d)
-- ![Screenshot_20241021-014323](https://github.com/user-attachments/assets/08ec93ab-3808-4ab1-95c0-74a34ebe72d1)
+- ![projeto-tabuada](https://github.com/user-attachments/assets/1c14e9ed-314a-454a-8138-d271de6fcce0)
+
 
 
 

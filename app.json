@@ -1,27 +1,22 @@
 {
   "expo": {
-    "name": "tabuada-mobile",
-    "slug": "tabuada-mobile",
+    "name": "Desafio Tabuada",
+    "icon": "./assets/icone.png",
+    "slug": "desafio-tabuada",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
+      "backgroundColor": "#03989e"
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+      "package": "br.com.elpatronmkt.app",
+      "versionCode": 1
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "br.com.elpatronmkt.app",
+      "buildNumber": "1.0.0"
     }
   }
 }
